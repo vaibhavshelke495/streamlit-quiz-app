@@ -1,0 +1,42 @@
+[
+    {
+        "username": "somesh",
+        "subject": "Python",
+        "score": 1,
+        "total": 2,
+        "percentage": 50.0,
+        "timestamp": "2025-12-19 16:48:32"
+    },
+    {
+        "username": "somesh",
+        "subject": "Python",
+        "score": 1,
+        "total": 2,
+        "percentage": 50.0,
+        "timestamp": "2025-12-19 16:48:48"
+    },
+    {
+        "username": "somesh",
+        "subject": "SQL",
+        "score": 4,
+        "total": 10,
+        "percentage": 40.0,
+        "timestamp": "2025-12-19 16:55:44"
+    },
+    {
+        "username": "somesh",
+        "subject": "Python",
+        "score": 6,
+        "total": 10,
+        "percentage": 60.0,
+        "timestamp": "2025-12-22 10:53:37"
+    },
+    {
+        "username": "somesh",
+        "subject": "Python",
+        "score": 6,
+        "total": 10,
+        "percentage": 60.0,
+        "timestamp": "2025-12-22 11:22:50"
+    }
+]
